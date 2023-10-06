@@ -1,9 +1,15 @@
 h1 {
     font-family: "Helvetica";
     background-color: aqua;
+    text-align: center;
 }
 
 ul li {
     font-size: 18px;
     color: red;
+}
+
+.recipe_list {
+    margin-top: 30px;
+    padding: 10px 15px;
 }
